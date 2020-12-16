@@ -1,0 +1,5 @@
+Username  RHT_OCP4_DEV_USER asv-jet-su
+Password  RHT_OCP4_DEV_PASSWORD bd63894ce2b74a1d8c6e
+API Endpoint  RHT_OCP4_MASTER_API https://api.eu45.prod.nextcle.com:6443
+Console Web Application   https://console-openshift-console.apps.eu45.prod.nextcle.com
+Cluster Id    bbd6b078-f55e-445e-a420-63b01dc1f75b
